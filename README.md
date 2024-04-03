@@ -1,5 +1,4 @@
-# basket-market_2017
-## Basket Market Analysis task at Ubiqum (2017)
+# Basket Market Analysis task at Ubiqum (2017)
 
 Assignment to introduce the students the **association rules** and the most important concepts about this topic, such as **confidence**, **support** and **lift**. Usage of the *arules* library of R.
 
